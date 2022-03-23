@@ -1,0 +1,9 @@
+body{
+	font-family: Arial;
+	font-size: 11pt;
+}
+th{
+	font-size: 13pt;
+	background: #ff0000;
+	color: #ffffff;
+}
